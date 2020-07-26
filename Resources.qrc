@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/add-file.png</file>
+        <file>Resources/dry-clean.png</file>
+        <file>Resources/eliminar.png</file>
+        <file>Resources/logout.png</file>
+        <file>Resources/paleta-de-pintura.png</file>
+        <file>Resources/pantone.png</file>
+        <file>Resources/rectangulo.png</file>
+        <file>Resources/talla.png</file>
+        <file>Resources/disquete.png</file>
+    </qresource>
+</RCC>
